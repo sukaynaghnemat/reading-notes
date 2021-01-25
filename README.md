@@ -1,8 +1,8 @@
 # reading-notes
 
-HELLO ALL
+#Grouth Mndset
 
-![MORNING](https://i2.wp.com/www.worldwanderista.com/wp-content/uploads/2015/02/sunrise-pelican-Cuba.jpg)
+![groth mindset](https://www.mindset.co.nz/30-growth-mindset-quotes-to-keep-you-in-the-game/)
 
 1. first
 1. second
