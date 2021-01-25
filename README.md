@@ -14,5 +14,7 @@ Grouth mindset push you to:
 
 ![groth mindset](https://2.bp.blogspot.com/-ZmlEhG-Z-WY/WKMVr0G_WWI/AAAAAAAAAuA/3xQHTaq_V6U0ltyy_TSxDUR2OQ5P6ok-ACLcB/s1600/iceberg.PNG)
 
+[google](https://en.wikipedia.org/wiki/Mindset)
+
 
 ## sukayna ghnemat
