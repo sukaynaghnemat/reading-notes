@@ -1,4 +1,4 @@
-# reading-notes
+
 
 # Grouth Mndset
 
@@ -17,6 +17,4 @@ Grouth mindset push you to:
 [google](https://en.wikipedia.org/wiki/Mindset)
 
 
-## sukayna ghnemat
 
-**sukayna**
