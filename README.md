@@ -9,6 +9,6 @@
 
 [mindset](https://github.com/sukaynaghnemat/reading-notes/blob/main/mindset.md)
 
-[markdown](https://github.com/sukaynaghnemat/reading-notes/blob/main/mindset.md)
+[markdown](https://github.com/sukaynaghnemat/reading-notes/blob/main/markdown.md)
 
 [git](https://github.com/sukaynaghnemat/reading-notes/blob/main/mindset.md)
