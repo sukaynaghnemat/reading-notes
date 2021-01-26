@@ -2,13 +2,13 @@
 
 # HELLO ALL
 
-#### WELCOME TO MY READING PAGE
+#### WELCOME TO MY PAGE
 
 ##### Table OF Content
 
 
 [mindset](https://github.com/sukaynaghnemat/reading-notes/blob/main/mindset.md)
 
-[markdown](https://github.com/sukaynaghnemat/reading-notes/blob/main/markdown.md)
+[markdown](https://sukaynaghnemat.github.io/reading-notes/markdown.md)
 
-[git](https://github.com/sukaynaghnemat/reading-notes/blob/main/git.md)
+[git]()
