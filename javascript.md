@@ -15,6 +15,6 @@
         with just a few lines of Javascript code.*
               
 
-              By Sukayna : heart :
+              By Sukayna 
          
 
