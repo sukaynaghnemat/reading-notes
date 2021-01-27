@@ -11,4 +11,4 @@
 
 [markdown](https://sukaynaghnemat.github.io/reading-notes/markdown.md)
 
-[git](https://sukaynaghnemat.github.io/reading-notes/git.md)
+[git](https://sukaynaghnemat.github.io/reading-notes/git)
