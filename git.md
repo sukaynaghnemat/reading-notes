@@ -1,4 +1,6 @@
-summries
+##summrized:
+
+###GIT
 
 
 Through Git, we can write a comment on every change we've made
