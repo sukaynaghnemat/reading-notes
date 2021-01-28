@@ -13,7 +13,7 @@
         control multimedia, animate images, things and everything else.
         Well, not all,but it's surprising what you can achieve
         with just a few lines of Javascript code.*
-              
+      
 
               By Sukayna 
          
