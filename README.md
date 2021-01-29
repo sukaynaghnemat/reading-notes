@@ -17,4 +17,4 @@
 * [mindest](https://sukaynaghnemat.github.io/reading-notes/grouthmind)
 * [markdown](https://sukaynaghnemat.github.io/reading-notes/markdown)
 * [git](https://sukaynaghnemat.github.io/reading-notes/git)
-* [javascript](https://github.com/sukaynaghnemat/reading-notes/blob/main/javascript1)
+* [javascript](https://sukaynaghnemat.github.io/reading-notes/javascript1)
