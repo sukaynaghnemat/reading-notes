@@ -18,3 +18,4 @@
 * [markdown](https://sukaynaghnemat.github.io/reading-notes/markdown)
 * [git](https://sukaynaghnemat.github.io/reading-notes/git)
 * [javascript](https://sukaynaghnemat.github.io/reading-notes/javascript1)
+* [loopandcomparsion](https://sukaynaghnemat.github.io/reading-notes/loop and compasion.md)
