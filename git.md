@@ -3,6 +3,9 @@
 ### GIT
 
 
+![git](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLktLwy4wWAyNYrfFZjUhgYOBDZjtWHzf_w&usqp=CAU)
+
+
 Through Git, we can write a comment on every change we've made
 We can also refer to any of the versions at the same time, and when changing in a particular version does not affect the rest of the versions
 Which made these advantages a great impact in facing many of the problems of the same team working on the same project.
