@@ -21,7 +21,7 @@
 
 ##### Code 201 Reading Notes
 
-* [Day1](https://sukaynaghnemat.github.io/reading-notes)
+* [ Introductory HTML and JavaScript]()
 * [Day2](https://sukaynaghnemat.github.io/reading-notes)
 * [Day3](https://sukaynaghnemat.github.io/reading-notes)
 * [Day4](https://sukaynaghnemat.github.io/reading-notes)
