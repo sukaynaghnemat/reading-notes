@@ -10,13 +10,13 @@
 
 ##### Code 102 Reading Notes
 
-* [mindest](https://sukaynaghnemat.github.io/reading-notes/grouthmind)
-* [markdown](https://sukaynaghnemat.github.io/reading-notes/markdown)
-* [html](https://sukaynaghnemat.github.io/reading-notes/html)
-* [git](https://sukaynaghnemat.github.io/reading-notes/git)
-* [javascript](https://sukaynaghnemat.github.io/reading-notes/javascript1)
-* [loopandcomparsion](https://sukaynaghnemat.github.io/reading-notes/loopandcomparsion)
-* [css](https://sukaynaghnemat.github.io/reading-notes/css)
+* [Mindest](https://sukaynaghnemat.github.io/reading-notes/grouthmind)
+* [Markdown](https://sukaynaghnemat.github.io/reading-notes/markdown)
+* [Html](https://sukaynaghnemat.github.io/reading-notes/html)
+* [Git](https://sukaynaghnemat.github.io/reading-notes/git)
+* [Javascript](https://sukaynaghnemat.github.io/reading-notes/javascript1)
+* [Loopandcomparsion](https://sukaynaghnemat.github.io/reading-notes/loopandcomparsion)
+* [Css](https://sukaynaghnemat.github.io/reading-notes/css)
 
 
 ##### Code 201 Reading Notes
