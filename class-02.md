@@ -7,12 +7,14 @@
 
 ● Structural markup: the elements that you can use to
 describe both headings and paragraphs.
+
+
 *For Exampele*
-*<sup>
+<sup>
 The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts likeraising a number to a power such
 as 22
   
-* <sub>
+<sub>
 The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 
@@ -23,6 +25,8 @@ The <sub> element is used to contain characters that should be subscript. It is 
 
 
 *For Example*
+
+
 <stong> <em> <blockquote> <q> <abbr> <cite> <dfn>
   
  ### CSS Selector
