@@ -22,7 +22,7 @@ The sub element is used to contain characters that should be subscript. It is co
 ● Semantic markup: which provides extra information; such as where emphasis is placed in a sentence, that something you have written is a quotation (and who said it), the meaning of acronyms, and so on.
 
 
-<stong> <em> <blockquote> <q> <abbr> <cite> <dfn>
+
   
 SELECTOR
  
