@@ -22,7 +22,7 @@
 ##### Code 201 Reading Notes
 
 * [class-01](https://sukaynaghnemat.github.io/reading-notes/class-01)
-* [class-02](https://sukaynaghnemat.github.io/reading-notes)
+* [class-02](https://sukaynaghnemat.github.io/reading-notes/class-02)
 * [Day3](https://sukaynaghnemat.github.io/reading-notes)
 * [Day4](https://sukaynaghnemat.github.io/reading-notes)
 * [Day5](https://sukaynaghnemat.github.io/reading-notes)
