@@ -39,8 +39,16 @@ so they must match elementnames and attribute values exactly.
 It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j sextension.  The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web
 page that the browser has created. 
 
+STATEMENTS
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement.
+Statements should end with a semicolon.
 
+COMMENTS
+You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. 
 
+VARIABLE
+A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.A variable is a good name for this
+concept because the data stored in a variable can change (or vary) each time a script runs. 
 
 
 
