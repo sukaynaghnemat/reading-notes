@@ -44,12 +44,15 @@ This property adds a scrollbar to the box so that users can scroll to see the mi
 * Padding Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
 
 
+## SWITCH STATEMENTS
+
+
+A switch statement starts with avariable called the switch value. Each case indicates a possible value for this variable and the code that should run if the
+variable matches that value. 
 
 
 
-
-
-
+![image2](https://cdn.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-switch-case.png)
 
 
 
