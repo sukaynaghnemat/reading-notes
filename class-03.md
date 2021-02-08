@@ -16,10 +16,19 @@ a recipe that must be performed in order, or a legal contract where each point n
 By default a box is sized just big enough to hold its contents. To set your own dimensions for a
 box you can use the height and width properties. The most popular ways tospecify the size of a box are
 to use pixels, percentages, or ems. Traditionally, pixels have been the most popular method 
-because they allow designers to accurately control their size>.
+because they allow designers to accurately control their size.
 
 
+## Overflow
 
+The overflow property tells the browser what to do if the content contained within a box is larger than the box itself.
+It can have one of two values:
+
+* hidden
+This property simply hides any extra content that does not fit in the box.
+
+* scroll
+This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
 
 
