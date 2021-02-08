@@ -34,6 +34,18 @@ https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png
 
 ## Border Margin Padding
 
+![image](https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
