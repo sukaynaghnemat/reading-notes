@@ -13,3 +13,18 @@ a recipe that must be performed in order, or a legal contract where each point n
 ## Box Dimensions (height, width)
 
 
+By default a box is sized just big enough to hold its contents. To set your own dimensions for a
+box you can use the height and width properties. The most popular ways tospecify the size of a box are
+to use pixels, percentages, or ems. Traditionally, pixels have been the most popular method 
+because they allow designers to accurately control their size>.
+
+
+
+
+
+
+
+
+
+
+
