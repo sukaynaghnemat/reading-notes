@@ -30,11 +30,19 @@ This property simply hides any extra content that does not fit in the box.
 * scroll
 This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
-https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png
+
 
 ## Border Margin Padding
 
 ![image](https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png)
+
+* Border: The border separates the edge of one box from another.
+
+
+* Margin: Margins sit outside the edge of the border. You can set the width of a margin to create a gap between the borders of two adjacent boxes.
+
+* Padding Padding is the space between the border of a box and any content contained within it. Adding padding can increase the readability of its contents.
+
 
 
 
