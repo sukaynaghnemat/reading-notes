@@ -30,6 +30,20 @@ This property simply hides any extra content that does not fit in the box.
 * scroll
 This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
+https://miro.medium.com/max/462/1*_Q0vGWv0CTxyZhF8hl5AfA.png
+
+## Border Margin Padding
+
+
+
+
+
+
+
+
+
+
+
 
 
 
