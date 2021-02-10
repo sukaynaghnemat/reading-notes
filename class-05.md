@@ -17,3 +17,11 @@
  This will usually be a relative URL pointing to an image on your own site. **alt** This provides a text description
  of the image which describes the image if you cannot see it.
  
+ 
+ ![image](https://www.wikihow.com/images/thumb/0/00/Set-Image-Width-and-Height-Using-HTML-Step-2-Version-3.jpg/v4-460px-Set-Image-Width-and-Height-Using-HTML-Step-2-Version-3.jpg.webp)
+ 
+ # Aligning
+ * The align attribute was commonly used to indicate how the other parts of a page should flow around an image. It has
+   been removed from HTML5 and new websites should use CSS to control the alignment of images.
+
+ ![image](https://www.homeandlearn.co.uk/WD/images/chapter7/table_cell_alignments.gif)
