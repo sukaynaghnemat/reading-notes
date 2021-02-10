@@ -52,7 +52,7 @@ lightness as above, and adds a fourth value which represents transparency.
 http://thenewcode.com/assets/images/hsl-color-wheel.png
 
   
- ![image]http://thenewcode.com/assets/images/hsl-color-wheel.png()
+ ![image](http://thenewcode.com/assets/images/hsl-color-wheel.png)
  
   
   
