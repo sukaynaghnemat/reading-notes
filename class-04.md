@@ -1,6 +1,6 @@
 #  HTML Links, CSS Layout, JS Functions
 
-## Whats is a link?
+## What is a link?
 
 * Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
 
