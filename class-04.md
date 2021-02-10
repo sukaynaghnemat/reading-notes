@@ -1,6 +1,6 @@
 #  HTML Links, CSS Layout, JS Functions
 
-## Whats is link?
+## Whats is a link?
 
 * Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.
 
@@ -25,6 +25,21 @@
     
  * Absolute positioning This positions the element in relation to its containing element. It is taken out of normal flow, meaning that it does not affect the position
    of any surrounding elements.
+   
+   # WHAT IS A FUNCTION?
+   
+   Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can
+   reuse the function (rather than repeating the same set of statements).
+   
+
+
+  ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh5TigXrtIuH3t0r8fSq7YmI7SkCzOpCgCCQ&usqp=CAU)
+   
+
+
+
+
+   
  
    
    
