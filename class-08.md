@@ -9,21 +9,21 @@
 * CSS has the following positioning schemes that allow you to control the layout of a page: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position
 property in CSS.
 
-###### normal flow 
+#### normal flow 
  * position:static: In normal flow, each block-level element sits on top of the next
 one. Since this is the default way in which browsers treat HTML elements, you do not
 need a CSS property to indicate that elements should appear in normal flow, but the syntax
 would be: position: static; I have not specified a width property for the heading element, so you can see how it stretches the width of the entire browser window by default.
 
-###### relative postitioning 
+#### relative postitioning 
 * position:relative: moves an element in relation to where it would have been in normal flow.
 You can indicate that an element should be relatively positioned using the position property with a value of relative.
 
-###### absolute possitioning 
+#### absolute possitioning 
 * position:absolute: When the position property is given a value of absolute,
 the box is taken out of normalflow and no longer affects the position of other elements on the page. (They act like it is notthere.)
 
-###### Fixed Positioning
+#### Fixed Positioning
 * position:fixed: Fixed positioning is a type of absolute positioning that requires the position property
 to have a value of fixed.
 
