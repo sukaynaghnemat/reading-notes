@@ -19,6 +19,16 @@ Forms can be sent using one of two methods: get or post.
 
 ![image](/image/form.png)
 
+### Styling Forms
+
+
+![image](/image/tabeltype.png)
+
+
+
+
+##### TABLE
+
 ### Table Properties
 
 
@@ -36,13 +46,8 @@ Forms can be sent using one of two methods: get or post.
 
 * background-color: to change the background color of the alternating table rows.
 
-* :hover: to highlight a table row when a user's mouse goes over it
+* :hover: to highlight a table row when a user's mouse goes over it.
 
-
-### Styling Forms
-
-
-![image](/image/tabeltype.png)
 
 
 
