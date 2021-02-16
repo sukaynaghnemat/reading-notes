@@ -29,7 +29,7 @@
 * [class-06](https://sukaynaghnemat.github.io/reading-notes/class-06)
 * [class-07](https://sukaynaghnemat.github.io/reading-notes)
 * [class-08](https://sukaynaghnemat.github.io/reading-notes/class-08)
-* [Day9](https://sukaynaghnemat.github.io/reading-notes)
+* [class-09](https://sukaynaghnemat.github.io/reading-notes/class-09)
 * [Day10](https://sukaynaghnemat.github.io/reading-notes)
 * [Day11](https://sukaynaghnemat.github.io/reading-notes)
 * [Day12](https://sukaynaghnemat.github.io/reading-notes)
