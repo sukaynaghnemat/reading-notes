@@ -27,7 +27,7 @@ Forms can be sent using one of two methods: get or post.
 
 
 
-##### TABLE
+## TABLE
 
 ### Table Properties
 
