@@ -33,7 +33,7 @@
 * [class-10](https://sukaynaghnemat.github.io/reading-notes/class-10)
 * [class-11](https://sukaynaghnemat.github.io/reading-notes/class-11)
 * [class-12](https://sukaynaghnemat.github.io/reading-notes/class-12)
-* [class-13](https://sukaynaghnemat.github.io/reading-notes/class13)
+* [class-13](https://sukaynaghnemat.github.io/reading-notes/class-13)
 * [Day14](https://sukaynaghnemat.github.io/reading-notes)
 * [Day15](https://sukaynaghnemat.github.io/reading-notes)
 
