@@ -35,7 +35,7 @@
 * [class-12](https://sukaynaghnemat.github.io/reading-notes/class-12)
 * [class-13](https://sukaynaghnemat.github.io/reading-notes/class-13)
 * [class-14](https://sukaynaghnemat.github.io/reading-notes/class-14)
-* [class-15](https://sukaynaghnemat.github.io/reading-notes/class-15)
+* [class-14b](https://sukaynaghnemat.github.io/reading-notes/class-14b)
 
 
 
