@@ -27,7 +27,7 @@
 * [class-04](https://sukaynaghnemat.github.io/reading-notes/class-04)
 * [class-05](https://sukaynaghnemat.github.io/reading-notes/class-05)
 * [class-06](https://sukaynaghnemat.github.io/reading-notes/class-06)
-* [class-07](https://sukaynaghnemat.github.io/reading-notes)
+* [class-07](https://sukaynaghnemat.github.io/reading-notes/class-07)
 * [class-08](https://sukaynaghnemat.github.io/reading-notes/class-08)
 * [class-09](https://sukaynaghnemat.github.io/reading-notes/class-09)
 * [class-10](https://sukaynaghnemat.github.io/reading-notes/class-10)
